@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a Lady from William Darrell ... ; wherein he desires a conference with the gentleman who writ her a letter furnishing her with Scripture testimonies against the principal points and doctrine of popery.</title>
+            <author>Darrell, William, 1651-1721.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36937</idno>
+            <idno type="STC">Wing D267</idno>
+            <idno type="STC">ESTC R6362</idno>
+            <idno type="EEBO-CITATION">13222228</idno>
+            <idno type="OCLC">ocm 13222228</idno>
+            <idno type="VID">98545</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98545)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 451:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a Lady from William Darrell ... ; wherein he desires a conference with the gentleman who writ her a letter furnishing her with Scripture testimonies against the principal points and doctrine of popery.</title>
+                  <author>Darrell, William, 1651-1721.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"From the Savoy July the 17." printed at end ; with 1688 in manuscript.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:98545:1" rendition="simple:additions"/>
+            <head>A LETTER TO A LADY FROM WILLIAM DARRELL Of the Society of JESUS. Wherein, He deſires a CONFERENCE with the <hi>Gentleman</hi> who Writ Her a <hi>LETTER,</hi> Furniſhing Her with Scripture Teſtimonies againſt the Principal Points and Doctrine of <hi>Popery</hi>
+            </head>
+            <p>ALthough I have not the Honour to know you, I take the Freedom to Trouble your Ladyſhip with a Letter: And be<g ref="char:EOLhyphen"/>cauſe I am Ignorant of your Lodgings, I have deſir'd the <hi>Hawkers</hi> to find them out. The occaſion of giving my Self the Trouble of Writing, and you of Reading this Leaf; came from a Pamphlet which took the Name of a Letter; though it deſerves rather that of a Book. However <hi>Madam,</hi> call it what you pleaſe; it Proves that leaſt, which it moſt Pretends: Indeed the Gentleman flings a little <hi>Scripture</hi> before your Eyes, not to Open them, but to Blind them: And yet, as much as I can gather, he deſires you to Thank him for the Favour. Did time permit me, I aſſure your Ladyſhip, I could make a Retaliation, and confute with Scripture thoſe very Points he Coroborats with it. But yet I confeſs Ingenuouſly, want of Time is not the only hindrance, a VVorthier Pen has done it to my Hands. And therefore in my Opinion, 'tis a piece of the greateſt Folly, to do that which is done already. If your Ladyſhip will not believe me, turn to the <hi>Triple-Cord,</hi> and believe your own Eyes. The <hi>Gentleman</hi> Inſinuates, <hi>You are en<g ref="char:EOLhyphen"/>dow'd with more than a Female Judgement:</hi> Uſe this great Talent without Pre<g ref="char:EOLhyphen"/>judice and Paſſion, and I am ſure you will ſee in the Book I recommend to you all the Articles of the <hi>Roman Faith,</hi> ſo firmly Aſſerted by <hi>Scriptures</hi> and <hi>Fa<g ref="char:EOLhyphen"/>thers,</hi> that you will Confeſs the <hi>Letter</hi> hath not ſhaken them. But if you pleaſe to follow my Advice, I will ſhow you a ſhorter way to find out the Truth. You know <hi>Madam,</hi> that a cunning Artiſt can eaſily on a piece of Paper give Fal<g ref="char:EOLhyphen"/>ſity ſome ſhaddow of Truth. There is nothing more Facil, than to clip a Text, or to Daub it over with a falſe Varniſh. Therefore if the <hi>Gentleman</hi> can ſpare an Afternoon, I deſire him to meet me: By this means you will ſee whether the Author deals fairly with you and us too; that is, whether he faſtens on us no other Doctrine but what our Church owns: I do not ſtand upon the place, but ſubmit my ſelf to Yours and His Conveniency. Only I deſire we may have <hi>Amanuenſes,</hi> to avoid all Miſtakes.</p>
+            <pb facs="tcp:98545:2"/>
+            <p n="1">1. I will deſire the Gentleman to make good this. <hi>But above all, the Doctrine of</hi> Purgatory, <hi>is as Obliging and Complaiſant to Fleſh and Blood, as any thing can be, for this takes off all neceſſity of a ſtrict and Restrained life;</hi> here is no need of Mortifying our Members upon the Earth, as the Apoſtles <hi>Advice was: Men need not be ſo fearful of pleaſing their Appetites as they ſhould be, if they were to follow the rigid Precepts of our Saviour, or St.</hi> Paul. <hi>But the</hi> Epicuraean <hi>Principle will make a Man happy here, in gratifying the Luſts of the Fleſh, and hereafter he ſhall be happy in Heaven too, if he has but been ſo frugal as to have a little Money to pay for a</hi> Catholick Burial, <hi>only undergoing a little Prixation or Roaſting by the way.</hi>
+            </p>
+            <p n="2">2. I will deſire him to make out this, if they of the Church of <hi>Rome</hi> can brag of any works of Super-errogation, they are ſuch as theſe. <hi>The Hallowing Dag<g ref="char:EOLhyphen"/>gers, for the cutting off Princes that are not for their turn. The Sacrificing all they pleaſe to call Hereticks,</hi> And if he cannot, I will Poſt him up for a <hi>Slanderer.</hi>
+            </p>
+            <p n="3">3. I will not omit to ask the Gentleman, from whence he took this Doctrine. <hi>Here's a Merchant has</hi> Indulgences <hi>to ſell at a reaſonable rate; by virtue of which, Man may gratifie the Luſts of his Fleſh here, and when he dies, a ſmall matter towards building or reparing ſome Religous Conventicle will purchaſe</hi> Maſ<g ref="char:EOLhyphen"/>ſes <hi>enough to deliver him out of</hi> Purgatory.</p>
+            <p n="4">4. He ſhall convince your Ladiſhip to that we teach. <hi>That the</hi> Pope <hi>can at once forgive a Man all the ſins he ever has committed, or ever ſhall be guilty of; That he can thruſt a Man into Heaven for as long a time as he pleaſes, where he ſhall lye undiſcovered by the All-ſeeing Eye of God, and at the end of that Term; be kick'd into Hell. That he can forgive the ſins of all that are in the Communion of the</hi> Ro<g ref="char:EOLhyphen"/>man Church; <hi>of all Chriſtians if he pleaſes; nay, of the whole World at once.</hi>
+            </p>
+            <p>You ſee Madam, that the Charge is home, and ſpoken with ſuch an Accent (as any may gueſs) he deſires the World to believe the <hi>Papiſts</hi> are guilty of ſuch Extravagances, 'Tis worth the while to examine the Accuſation by word of Mouth in your Ladiſhips preſence: That if true, you may more deteſt <hi>Po<g ref="char:EOLhyphen"/>pery;</hi> and if falſe, your Correſpondents Forgery and Calumny.</p>
+            <p>
+               <hi>Madam,</hi> at preſent I have only Cull'd theſe four Points, when theſe are de<g ref="char:EOLhyphen"/>cided, I will expoſe more: I deſire you for God's ſake and your own, to uſe all your Intereſt with the Gentleman for a ſpeedy Meeting. All the ſtreets Ring with the <hi>Letter,</hi> and the Ignorant Mobilee take the Contents for Goſ<g ref="char:EOLhyphen"/>pel. The heat is ſo great againſt <hi>Popery,</hi> that every thing adds Fuel to the Flame; but nothing enflames our Enemies more, than ſuch Monſtrous Miſ<g ref="char:EOLhyphen"/>repreſentations of our Doctrine; Beſides your haughty Zealots take our Mo<g ref="char:EOLhyphen"/>deſty, for Cowardiſe; Our Patience, for Fear; and our Silence, for a Defeat; So that I make my Addreſs to your Ladiſhip, (who perchance, may be no Stranger to your Topping <hi>Gown-Men</hi>) and conjure you to tell your Friend, I am ready to meet him: And if you pleaſe to be cleared of any other Point, chuſe whom you pleaſe of your Leading Miniſters, and you ſhall find me al<g ref="char:EOLhyphen"/>ways willing to wait on them, and your Ladiſhip.</p>
+            <p>But I believe you will find it more hard than you imagine, to bring us to<g ref="char:EOLhyphen"/>gether; For thoſe Men who had the face to Challenge Mr. <hi>Pulton</hi> in Print, and the Courage not to take notice that he accepted of the <hi>Defy,</hi> will eaſily bear this. However I ſhall be ready at your call, and am impatient to obey it, as I am to Subſcribe my ſelf</p>
+            <closer>
+               <signed>Your Ladiſhips Obedient Servant, WILLIAM DARRELL.</signed>
+               <dateline>From the <hi>Savoy</hi>
+                  <date>
+                     <hi>July</hi> the 17. 1688</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
